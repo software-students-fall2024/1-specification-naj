@@ -55,4 +55,4 @@ This Project Tracker App is designed to enhance collaboration and efficiency by 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/design/EDuJlxh1Jnzbf0txLx6qX1/Wireframe-Diagrams?node-id=0-1&node-type=canvas&t=lZJeOvLdiC4KQrdN-0
