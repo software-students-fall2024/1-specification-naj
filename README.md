@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 - **Jessica Xu** (kx2053) [GitHub Profile](https://github.com/Jessicakk0711)
 
 
+
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
@@ -55,4 +56,4 @@ This Project Tracker App is designed to enhance collaboration and efficiency by 
 
 ## Clickable Prototype
 
-https://www.figma.com/design/EDuJlxh1Jnzbf0txLx6qX1/Wireframe-Diagrams?node-id=0-1&node-type=canvas&t=lZJeOvLdiC4KQrdN-0
+https://www.figma.com/proto/EDuJlxh1Jnzbf0txLx6qX1/Wireframe-Diagrams?node-id=3-2&node-type=canvas&t=qkpVrMQgtw9s8UkY-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2
