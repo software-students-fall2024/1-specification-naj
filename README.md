@@ -68,7 +68,7 @@ This Project Tracker App is designed to enhance collaboration and efficiency by 
 
 ## Wireframe Diagram
 
-https://github.com/software-students-fall2024/1-specification-naj.git
+https://www.figma.com/design/EDuJlxh1Jnzbf0txLx6qX1/Wireframe-Diagrams?node-id=0-1&t=WMqCEJshxf5HWTmR-1
 
 ## Clickable Prototype
 
