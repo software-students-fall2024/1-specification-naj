@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 - **Jessica Xu** (kx2053) [GitHub Profile](https://github.com/Jessicakk0711)
 - **Terry Cao** (tc3661) [GitHub Profile](https://github.com/cao-exe)
 - **William Cao** (wc2723) [GitHub Profile](https://github.com/FriedBananaBan)
+- **Boming Zhang** (bz2196) [GitHub Profile](https://github.com/BomingZhang-coder)
 
 
 ## Stakeholders
