@@ -12,7 +12,20 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Interviewee:
+-**Name**: Dan Dai
+- **Occupation**: Student
+### Goals/Needs:
+1. **Efficient Task Management**: Needs to assign tasks to team members quickly and track progress on a centralized platform.
+2. **Clear Deadlines**: Emphasizes the importance of setting and visualizing deadlines with reminders to avoid delays.
+3. **Better Communication**: Wants to streamline communication for each task to avoid jumping between different messaging platforms.
+4. **Time Tracking**: A feature to log hours spent on tasks to ensure accountability and keep the team on track.
+### Problems/Frustrations:
+1. **Scattered Information**: Struggles with keeping all relevant documents and communication in one place. Often, vital information gets lost in emails or chats.
+2. **Deadline Confusion**: Sometimes team members miss deadlines due to unclear or poorly communicated timelines, especially when changes occur.
+3. **Lack of Accountability**: There is no clear tracking of which team member is behind on their tasks, making it difficult to address issues early.
+4. **Notification Overload**: Too many notifications from different platforms (email, Slack, etc.) make it difficult to prioritize important updates.
+
 
 ## Product Vision Statement
 
