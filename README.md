@@ -8,6 +8,7 @@ A little exercise to get started with the specification phase of the software de
 - **Terry Cao** (tc3661) [GitHub Profile](https://github.com/cao-exe)
 - **William Cao** (wc2723) [GitHub Profile](https://github.com/FriedBananaBan)
 - **Boming Zhang** (bz2196) [GitHub Profile](https://github.com/BomingZhang-coder)
+- **Hang Yin** (hy2270) [GitHub Profile](https://github.com/Popilopi168)
 
 
 ## Stakeholders
@@ -59,13 +60,11 @@ This Project Tracker App is designed to enhance collaboration and efficiency by 
 1. **As a project manager**, 
     (2) I want a task divider that breaks down large tasks into smaller, manageable subtasks and assigns them to my team based on skill sets and workload so that everyone has clear responsibilities. 
     (4) I want a progress tracker that visually shows the completion percentage of each task and the overall project so that I can identify delays and make adjustments if necessary. 
-    (7) I also want to generate reports on completed tasks and team performance so that I can evaluate productivity and identify bottlenecks.
-    ![Diagram 1: ](/Screenshot%202024-09-23%20at%201.55.45 AM.png)
+    ![Diagram 1: ](/Screenshot%202024-09-24%20at%201.39.21 AM.png)
 
-2. **As an event organizer**, 
-    (5) I want a team planner that allows me to group people into specific teams and assign each team a set of tasks based on their expertise, so I can manage work distribution more efficiently.
-    (6) I want a dynamic task distribution system that highlights which tasks are completed and which are pending in real-time, so I can quickly see what still needs attention and adjust the workflow if necessary.
-    ![Diagram 2: ](/Screenshot%202024-09-23%20at%201.56.03 AM.png)
+2. **As a team member**, 
+    (3) I want a personalized to-do list that automatically updates when tasks are assigned to me, so I can easily see what is expected of me and prioritize my work.
+    ![Diagram 2: ](/Screenshot%202024-09-24%20at%202.47.01 AM.png)
 
 
 
