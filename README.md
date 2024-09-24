@@ -66,7 +66,9 @@ This Project Tracker App is designed to enhance collaboration and efficiency by 
     (3) I want a personalized to-do list that automatically updates when tasks are assigned to me, so I can easily see what is expected of me and prioritize my work.
     ![Diagram 2: ](/Screenshot%202024-09-24%20at%202.47.01 AM.png)
 
+## Wireframe Diagram
 
+https://github.com/software-students-fall2024/1-specification-naj.git
 
 ## Clickable Prototype
 
