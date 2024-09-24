@@ -30,7 +30,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-This Project Tracker App is designed to enhance collaboration and efficiency by providing tools for task allocation, real-time progress tracking, personalized to-do lists and team meeting arrangement. Whether you're managing a project, organizing an event, or working on group assignments, this app helps streamline workflows and keep everyone on the same page.
+This Project Tracker App is an intelligent task management tool that divides tasks, assigns them based on team skill sets and workload, tracks progress visually, and provides personalized to-do lists for clear accountability and efficient project completion.
 
 ## User Requirements
 
